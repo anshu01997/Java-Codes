@@ -1,2 +1,2 @@
 # JavaCodes
-Java Programs of Data Structure
+Java Programs of Data Structures.
